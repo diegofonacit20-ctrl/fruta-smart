@@ -1,0 +1,7 @@
+{
+  "name": "FrutaSmart - Gestión de Frutería",
+  "description": "Una solución integral para la gestión de inventario, ventas, gastos y mermas para negocios de frutería y hortalizas, potenciada por IA para análisis inteligente y comandos de voz.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
